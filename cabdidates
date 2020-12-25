@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<title>Candidate</title>
+	<style type="text/css">
+		*{
+			margin: 0;
+			padding:0;
+			box-sizing:border box;
+		}
+		body{
+			font-family:Robot;
+			font-size:16px;
+			color:#333;
+
+		}
+		.box{
+			width: 50%;
+			height: 700px;
+			display: inline-block;
+			margin: 3% 30%;
+			box-shadow: 0 27px 87px rgba(0,0,0,0.37);
+		    border-radius: 10px;
+			overflow:hidden;
+			background-color: rgb(222,213,225);
+			} 
+		
+		.box-img{
+			width: 460px;
+			height: 260px;
+			margin-left: 15px;
+			margin-bottom: 15px;
+			float: left;
+		}
+		.box-vid{
+			margin-top: 20px;
+			margin-left: 230px;
+			margin-bottom: 60px;
+		}
+		.column {
+		  content: "";
+		  display:table;
+		  clear: both;
+		}
+	</style>
+	
+</head>
+<body style="background-color:rgb(128,128,128);" >
+	<div class="box">
+		<!--candidate video-->
+		<div class="box-vid">
+			<video width="460" height="240" controls>
+			<source src="\Users\Dell\Downloads\WhatsApp Video.3gpp"> 
+			</video>
+		</div>
+		<!--candidate image-->
+		<div class="box-img">
+			<div class="column">
+			   <img src="\Users\Dell\Downloads\download.jfif" height="300px" width="200px">
+			    <div class="desc">Candidate name<br>candidate post.	
+			    </div>
+			 </div>
+			 <!--poster-->
+			<div class="column">
+			   <img src="\Users\Dell\Downloads\download.jfif" height="200px" width="150px">
+			</div>
+		</div>
+
+	</div>
+</div>
+
+</body>
+</html>
