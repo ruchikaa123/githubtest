@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="google-site-verification" content="M_XAnGuVrpna4-NpVq9bGesjPCmorc6H7pfatnKYj8E" />
+</head>
+<body>
+ <div class="row">
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">21st january (thursday)</a></h4>
+            <!-- <p class="description"> -->
+              <table class="description">
+                <tr>
+                  <th>Time</th>
+                  <th>Event</th>
+                  <th>Venue</th>
+                </tr>
+                <tr>
+                  <td>00:00 Hrs</td>
+                  <td>Code of Conduct begins</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>Call for nominations</td>
+                  <td>Via Mail</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>Nomination filling begins</td>
+                  <td>Nomination Portal</td>
+                </tr>
+                <tr>
+                  <td>20:00 Hrs</td>
+                  <td>Nomination filling ends</td>
+                  <td>Nomination Portal</td>
+                </tr>
+                <tr>
+                  <td>20:00 - 22:00 Hrs</td>
+                  <td>Verification of nominations (SENATORS ONLY)</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>22:00 - 23:00 Hrs</td>
+                  <td>Verification of nominations (EXECUTIVES ONLY)
+                  </td>
+                  <td></td>
+                </tr>
+                
+              </table>
+            <!-- </p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">8th January 2020 (Wednesday)</a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td>11:00 Hrs</td>
+                <td>Deadline for withdrawal of nominations</td>
+                <td>Via Mail</td>
+              </tr>
+              <tr>
+                <td>12:00 Hrs</td>
+                <td>Call for renominations
+                  Deadline for Submission of Manifestos </td>
+                <td>Via Mail</td>
+              </tr>
+              <tr>
+                <td>12:00 Hrs</td>
+                <td>Re Nomination filling begins</td>
+                <td>Nomination Portal</td>
+              </tr>
+              <tr>
+                <td>20:00 Hrs</td>
+                <td>Re Nomination filling ends</td>
+                <td>Nomination Portal</td>
+              </tr>
+              <tr>
+                <td>20:00 - 21:00 Hrs</td>
+                <td>Verification of renominations 
+                  <br>
+                  Manifesto Ractification
+                </td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>21:00 - 22:00 Hrs</td>
+                <td>Submission of list of campaigners 
+                  <br>
+                  Manifesto Ratification </td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>23:00 Hrs</td>
+                <td>Meeting with Candidates</td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>23:59 Hrs</td>
+                <td>Deadline for Submission of Manifestos
+                  <br>
+                  (Renomination Candidates Only) 
+                  </td>
+                <td>To be
+                  informed</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">9th January 2020 (Thursday) 
+            </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td>00:00 Hrs</td>
+                <td>Announcement of List of Candidates </td>
+                <td>Via Mail</td>
+              </tr>
+              <tr>
+                <td>07:30 Hrs</td>
+                <td>Meeting with Chief Counsellor</td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>08:00-
+                  23:000H
+                  rs 
+                  </td>
+                <td>Manifesto Ratification </td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>23:00 Hrs</td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">10th January 2020 (Friday) 
+            </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>23:00 Hrs</td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">11th January 2020 (Saturday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>23:00 Hrs</td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">12th January 2020 (Sunday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>23:00 Hrs</td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">13th January 2020 (Monday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+                 </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>19:30-
+                  22:30
+                  Hrs </td>
+                <td>EDAD</td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>23:00
+                  Hrs  
+                  </td>
+                <td>Meeting with candidates  </td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>23:00 Hrs</td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">14th January 2020 (Tuesday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>19:30-
+                  22:30
+                  Hrs </td>
+                <td>EDAD</td>
+                <td>Senate Hall</td>
+              </tr>
+              <tr>
+                <td>23:00
+                  Hrs  
+                  </td>
+                <td>Meeting with candidates  </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">15th January 2020 (Wednesday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>23:00
+                  Hrs </td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">16th January 2020 (Thursday)</a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>19:30-
+                  22:30
+                  Hrs</td>
+                <td>SoP Box</td>
+                <td>To be
+                  informed</td>
+              </tr>
+              <tr>
+                <td>23:00
+                  Hrs  
+                  </td>
+                <td>Meeting with candidates  </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">17th January 2020 (Friday)</a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 08:00-
+                  23.00
+                  Hrs</td>
+                <td>Campaigning allowed </td>
+                <td>Wing to
+                  Wing 
+                  </td>
+              </tr>
+              <tr>
+                <td>19:30-
+                  22:30
+                  Hrs </td>
+                <td>SoP Box </td>
+                <td>To be
+                  informed </td>
+              </tr>
+              <tr>
+                <td>23:00
+                  Hrs  
+                  </td>
+                <td>Meeting with candidates  </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">18th January 2020 (Saturday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td> 00:00 Hrs</td>
+                <td>Silence Period Begins</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>23:00
+                  Hrs </td>
+                <td>Meeting with candidates </td>
+                <td>Senate Hall</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">19th January 2020 (Sunday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td>10:00-
+                  18:00
+                  Hrs </td>
+                <td>Polling Period </td>
+                <td>To be
+                  informed </td>
+              </tr>
+              <tr>
+                <td>18:00</td>
+                <td>Period To File any complaints to GRC begins</td>
+                <td></td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">20th January 2020 (Monday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td>18:00
+                  Hrs</td>
+                <td>Period To File any complaints to GRC ends </td>
+                <td>To be
+                  informed</td>
+              </tr>
+              <tr>
+                <td>22:00
+                  Hrs 
+                  </td>
+                <td>Counting of Votes </td>
+                <td>To be
+                  informed</td>
+              </tr>
+              <tr>
+                <td>23:59
+                  Hrs</td>
+                <td>Results Declaration </td>
+                <td>Via Mail </td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="#services">21st January 2020 (Tuesday) </a></h4>
+            <table class="description">
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+                <th>Venue</th>
+              </tr>
+              <tr>
+                <td>12:00
+                  Hrs</td>
+                <td>Code of Conduct ends</td>
+                <td></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+</body>
+</html>
